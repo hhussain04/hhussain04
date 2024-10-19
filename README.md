@@ -1,4 +1,4 @@
-[Header Image](./header.jpeg)
+![Header Image](header.jpeg)
 # Hi there, I'm Humza! 👋
 
 🔍 **I am an aspiring Software Developer, Cyber-Security Enthusiast and Networking Professional**  
@@ -22,6 +22,7 @@
 - **Version Control**: Git, GitHub
 - **Cyber-Security**: Learning penetration testing and secure coding practices
 - **Networking**: Basic network configuration, troubleshooting, and network security principles
+- **VS Code**: Intermediate knowledge of the Visual Studio Code IDE
 
 ---
 
