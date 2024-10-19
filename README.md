@@ -32,7 +32,7 @@
   
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="githublogo.svg" alt="GitHub" width="40" height="40"/>
   
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
