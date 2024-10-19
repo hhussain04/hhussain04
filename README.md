@@ -28,12 +28,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
   
   <!-- GUI Development -->
-  <img src="https://user-images.githubusercontent.com/10707233/46377330-0b5e1d00-c65e-11e8-87c2-f4f4e86e0d60.png" alt="Guizero" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Tkinter" width="40" height="40"/>
   
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   
   <!-- Cyber-Security -->
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-security-cyber-security-flat-flat-juicy-fish.png" alt="Cyber-Security" width="40" height="40"/>
