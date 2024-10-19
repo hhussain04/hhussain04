@@ -34,12 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   
-  <!-- Cyber-Security -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-security-cyber-security-flat-flat-juicy-fish.png" alt="Cyber-Security" width="40" height="40"/>
-  
-  <!-- Networking -->
-  <img src="https://img.icons8.com/fluency/48/000000/networking.png" alt="Networking" width="40" height="40"/>
-  
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
