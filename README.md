@@ -16,13 +16,35 @@
 ---
 
 ### 🛠️ Tools
-- **Programming Languages**: Python, C++, JavaScript
-- **Web Development**: HTML, CSS, Flask
-- **GUI Development**: Guizero, Tkinter
-- **Version Control**: Git, GitHub
-- **Cyber-Security**: Learning penetration testing and secure coding practices
-- **Networking**: Basic network configuration, troubleshooting, and network security principles
-- **VS Code**: Intermediate knowledge of the Visual Studio Code IDE
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  
+  <!-- GUI Development -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Guizero_logo.png" alt="Guizero" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Tkinter" width="40" height="40"/>
+  
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  
+  <!-- Cyber-Security -->
+  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-security-cyber-security-flatart-icons-flat-flatarticons.png" alt="Cyber-Security" width="40" height="40"/>
+  
+  <!-- Networking -->
+  <img src="https://img.icons8.com/color/48/000000/networking-manager.png" alt="Networking" width="40" height="40"/>
+  
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
 
 ---
 
