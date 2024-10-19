@@ -36,9 +36,6 @@
 
   <!--Linux-->
   <img src="linux.svg" alt="VS Code" width="40" height="40"/>
-
-  <!--Packet Tracer-->
-  <img src="packettracer.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 
