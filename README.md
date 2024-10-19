@@ -1,4 +1,4 @@
-[Header Image]()
+[Header Image](./header.jpeg)
 # Hi there, I'm Humza! 👋
 
 🔍 **I am an aspiring Software Developer, Cyber-Security Enthusiast and Networking Professional**  
