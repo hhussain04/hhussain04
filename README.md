@@ -25,25 +25,26 @@
   <!-- Web Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
   
   <!-- GUI Development -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Guizero_logo.png" alt="Guizero" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Tkinter" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/10707233/46377330-0b5e1d00-c65e-11e8-87c2-f4f4e86e0d60.png" alt="Guizero" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Tkinter" width="40" height="40"/>
   
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   
   <!-- Cyber-Security -->
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-security-cyber-security-flatart-icons-flat-flatarticons.png" alt="Cyber-Security" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-security-cyber-security-flat-flat-juicy-fish.png" alt="Cyber-Security" width="40" height="40"/>
   
   <!-- Networking -->
-  <img src="https://img.icons8.com/color/48/000000/networking-manager.png" alt="Networking" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/networking.png" alt="Networking" width="40" height="40"/>
   
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
+
 
 
 ---
