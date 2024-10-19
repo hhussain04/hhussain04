@@ -27,9 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="flask.png" alt="Flask" width="40" height="40"/>
   
-  <!-- GUI Development -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Tkinter" width="40" height="40"/>
-  
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="githublogo.svg" alt="GitHub" width="40" height="40"/>
