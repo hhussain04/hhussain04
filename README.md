@@ -50,7 +50,7 @@
 ---
 
 ### 🌱 What I'm Currently Learning:
-- 💡 **Modern C++ Development**: Learning to use C++ to user-friendly applications with online capabilities.
+- 💡 **Modern C++ & Rust Development**: Learning to use C++ and Rust to user-friendly applications with online capabilities.
 - 🌐 **Web Security & Ethical Hacking**: Scratching the surface of cyber-security.
 - 📊 **Data Analysis**: Using Python for data processing and visualization.
 
