@@ -46,7 +46,7 @@
 ### 📚 Current Projects
 - 📈 [**YFinanceStockTool**](https://github.com/hhussain04/YFinanceStockTool): A tool for fetching stock market data using YFinance.
 - 🗃️ [**FolderTidy**](https://github.com/hhussain04/FolderTidy): A script for renaming folders systematically and tidily.
-- 📋 [**TrackR**]([https://github.com/hhussain04/tasktracker](url): A React-based task tracking app with an in-built pomodoro timer.
+- 📋 [**TrackR**](https://github.com/hhussain04/tasktracker): A React-based task tracking app with an in-built pomodoro timer.
 
 ---
 
