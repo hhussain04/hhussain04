@@ -46,7 +46,7 @@
 ### 📚 Current Projects
 - 📈 [**YFinanceStockTool**](https://github.com/hhussain04/YFinanceStockTool): A tool for fetching stock market data using YFinance.
 - 🗃️ [**FolderTidy**](https://github.com/hhussain04/FolderTidy): A script for renaming folders systematically and tidily.
-- 🎨 [**Turtle-AI-Script**](https://github.com/hhussain04/Turtle-AI-Script): A python tool that lets you input basic shapes and have an AI draw it using Python's turtle library! (HEAVY WIP AI IS NOT GOOD AT TURTLE GRAPHICS
+- 📋 [**TrackR**]([https://github.com/hhussain04/tasktracker](url): A React-based task tracking app with an in-built pomodoro timer.
 
 ---
 
