@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Vite.js-4FC08D?logo=Vitedotjs&logoColor=black&style=for-the-badge" height="30" alt="Vitejs logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
