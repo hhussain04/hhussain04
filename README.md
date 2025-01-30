@@ -2,8 +2,12 @@
 
 
 <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titillium+Web&size=35&duration=4000&pause=500&color=00E9F7&width=435&lines=Hey+there+%3A);I'm+Humza.;Fullstack+Developer.;Cybersecurity+Enthusiast.)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg">
+       <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&size=35&duration=4000&pause=500&color=00E9F7&width=435&lines=Hey+there+%3A);I'm+Humza.;Fullstack+Developer.;Cybersecurity+Enthusiast."   
+ alt="Typing SVG" />
+    </a>
 </h1>
+
 
 <h3 align="center">A passionate developer and tech enthusiast from London, ​🇬​​🇧​</h3>
 
