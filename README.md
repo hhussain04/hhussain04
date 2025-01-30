@@ -1,20 +1,26 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hhussain04.hhussain04" />
+
+
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titillium+Web&size=35&duration=4000&pause=500&color=00E9F7&width=435&lines=Hey+there+%3A);I'm+Humza.;Fullstack+Developer.;Cybersecurity+Enthusiast.)](https://git.io/typing-svg)
+</h1>
+
+<h3 align="center">A passionate developer and tech enthusiast from London, ​🇬​​🇧​</h3>
+
+<br/>
+
+
 <div align="center">
-  <img height="200" src="gif.gif"/>
-</div>
+ 
+ 🔭 I’m currently working on **a Flask app with a backend structured with MySQL**
+ 
+ 🌱 I’m currently learning **Docker, C++, Haskell**
+ 
+⚡ Fun fact, Octopi and Fish sometimes hunt together, and the Octopi will sometimes **punch** the fish to keep their fair share of food.
 
-###
+ </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hhussain04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🛠️ What Tools I Use 🛠️</h2>
-
-###
+<h2 align="center">Tech Stack/Tools</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
@@ -68,6 +74,24 @@
 
 ###
 
+<br clear="both">
+
+###
+
+<h2 align="center">My Github Stats📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hhussain04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
+<h2 align="center">Watch my contributions 🐍</h2>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhussain04/hhussain04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhussain04/hhussain04/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hhussain04/hhussain04/output/github-snake.svg" />
+</picture>
+
+###
+
 <h2 align="left">Contact Me Here 👇</h2>
 
 ###
@@ -80,13 +104,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhussain04/hhussain04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhussain04/hhussain04/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hhussain04/hhussain04/output/github-snake.svg" />
-</picture>
-
-###
