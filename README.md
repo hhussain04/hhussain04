@@ -13,7 +13,7 @@
 
 ### 🛠️ About Me
 
-- 🔭 I’m currently working on **a Flask app with a MySQL backend**
+- 🔭 I’m currently working on **a cross-platform video compression tool with Electron.**
 - 🌱 I’m currently learning **Docker, C++, Haskell**
 - ⚡ Fun fact: Octopi and fish sometimes hunt together, and the octopi will occasionally **punch** the fish to keep their fair share of food.
 
